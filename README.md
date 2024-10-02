@@ -60,3 +60,8 @@ The frontend is a mobile application built using **React Native**. It supports b
    ```bash
    npm install
 
+4.Start the backend server
+
+   ```bash
+   npm start
+
